@@ -1,0 +1,91 @@
+body {
+    color: green;
+    font-family: Verdana, Arial, Geneva;
+    font-weight: normal;
+    background-color: #ffcf79;
+    font-size: 20px;
+}
+
+h1 {
+    text-decoration: underline;
+    font-size: 150%;
+    text-align: center;
+    color: green;
+}
+
+h2 {
+    text-decoration: underline;
+    font-size: 1.2em;
+    text-align: center;
+    color: green;
+}
+
+h3 {
+    text-decoration: underline;
+    color: green;
+}
+
+#para1homepage {
+    color:blue;
+}
+
+p.paragraph {
+    color:purple;
+    font-size: 15px;
+    line-height: 1.5em;
+    background-color: #e5e4d7;
+    padding: 20px;
+    border: black 2px solid;
+    background-image: url(cloud.jpg);
+    border-radius: 10px;
+    border-bottom-style: dotted;
+}
+
+#para4homepage {
+    color:black;
+    font-size: 15px;
+    line-height: 1.5em;
+    background-color: #e5e4d7;
+    padding: 20px;
+    border: black thick ridge;
+    margin: 20px;
+    margin-top: 50px;
+    margin-left: 400px;
+}
+
+.imagec {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 3px;
+    background-color: silver;
+    border: black 2px solid;
+}
+
+#divmain {
+    color:black;
+}
+
+#divbass {
+    color: black;
+}
+
+.divcontent {
+    color: black;
+}
+
+.highlight {
+    background-color: greenyellow;
+}
+
+a:link {
+    color: blue;
+}
+
+a:visited {
+    color: gray;
+}
+
+a:hover {
+    color: #F15A51;
+}
